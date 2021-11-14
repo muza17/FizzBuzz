@@ -12,6 +12,7 @@ form.addEventListener("submit", function(e){
         result.textContent = "buzz";
     } else{
         result.textContent = "Qayta urining"; 
+        
     }
     input.value = "";
 })

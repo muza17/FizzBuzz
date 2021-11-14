@@ -384,9 +384,10 @@ img {
 }
 
 .fizzbuzz {
+  height: 100%;
   background-color: #88E0EF;
   margin: 0;
-  padding: 140px 0px;
+  padding: 200px 0px;
 }
 
 .fizzbuzz__heading {
@@ -397,7 +398,7 @@ img {
   font-size: 40px;
   line-height: 20px;
   color: #161E54;
-  margin-bottom: 40px;
+  margin-bottom: 60px;
 }
 
 .fizzbuzz__text {
@@ -406,7 +407,7 @@ img {
   text-align: center;
   font-size: 20px;
   line-height: 10px;
-  margin-bottom: 40px;
+  margin-bottom: 60px;
 }
 
 .fizzbuzz #form {
